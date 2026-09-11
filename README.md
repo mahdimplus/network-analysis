@@ -98,7 +98,7 @@ The user may need to update the SLURM paramaters to meet their needs (i.e.: `acc
 To submit the job to the slurm scheduler, the user must run the following line:
 
 ```bash
-sbatch run_spark_slurm.sh
+bash run_spark_slurm.sh
 ```
 
 ---
